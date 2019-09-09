@@ -1,0 +1,5 @@
+name: BadTab
+main: fr.badblock.tab.BadTab
+author: xMalware
+version: 1.0
+depend: [BadblockGameAPI]
